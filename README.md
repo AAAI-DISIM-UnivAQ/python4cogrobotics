@@ -52,6 +52,6 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Real Robots
 
-* NAOqi platforms
-* rospy with ROS
-* RaspberryPI based robots
+* [SDK](http://doc.aldebaran.com/2-8/dev/python/install_guide.html) for [NAOqi](http://doc.aldebaran.com/2-8/index_dev_guide.html) platforms
+* [rospy](http://wiki.ros.org/rospy) with [ROS](http://www.ros.org)
+* [RaspberryPI](http://www.raspberrypi.org) based robots [1](http://github.com/nasa-jpl/open-source-rover) [2](http://www.researchgate.net/publication/289108931_Open_Source_Mobile_Robot_with_Raspberry_Pi)
