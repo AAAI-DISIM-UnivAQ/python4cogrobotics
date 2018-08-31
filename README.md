@@ -28,9 +28,9 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### 3D Robots Simulators
 
-* Morse
-* Gazebo
-* V-REP
+* [Morse](http://www.openrobots.org/wiki/morse)
+* [pygazebo](http://github.com/jpieper/pygazebo) with [Gazebo](http://gazebosim.org)
+* [prothonics-vrep](http://github.com/AAAI-DISIM-UnivAQ/prothonics-vrep) with [V-REP](http://www.coppeliarobotics.com)
 
 ### Machine Learning
 
