@@ -47,8 +47,8 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Multi Agent Systems
 
-* SPADE
-* LindaProxy with DALI
+* [SPADE](http://github.com/javipalanca/SPADE)
+* [LindaProxy](http://github.com/AAAI-DISIM-UnivAQ/LindaProxy) with [DALI](http://github.com/AAAI-DISIM-UnivAQ/DALI)
 
 ### Real Robots
 
