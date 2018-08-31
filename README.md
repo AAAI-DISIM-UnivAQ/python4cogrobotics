@@ -34,10 +34,10 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Machine Learning
 
-* TensorFlow
-* scikit-learn
-* PyTorch
-* Keras
+* [TensorFlow](http://www.tensorflow.org)
+* [scikit-learn](http://scikit-learn.org)
+* [PyTorch](http://pytorch.org)
+* [Keras](http://keras.io)
 
 ### Event Programming
 
