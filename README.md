@@ -41,9 +41,9 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Event Programming
 
-* PyZQM
-* MBMQTT with Mosquitto
-* redis-py with Redis
+* [PyZQM](http://zeromq.org/bindings:python) with [ZeroMQ](http://zeromq.org)
+* [HBMQTT](http://github.com/beerfactory/hbmqtt) with [Mosquitto](http://mosquitto.org)
+* [redis-py](http://github.com/andymccurdy/redis-py) with [Redis](http://redis.io)
 
 ### Multi Agent Systems
 
