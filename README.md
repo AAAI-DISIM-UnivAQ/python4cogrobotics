@@ -22,9 +22,9 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Logic Programming
 
-* PyDatalog
-* PyDALI and DALI
-* PySWIP and SWI-Prolog
+* [PyDatalog](http://sites.google.com/site/pydatalog/home)
+* [PyDALI](http://github.com/AAAI-DISIM-UnivAQ/PyDALI) and [DALI](http://github.com/AAAI-DISIM-UnivAQ/DALI)
+* [PySWIP](http://github.com/yuce/pyswip) with [SWI-Prolog](http://www.swi-prolog.org)
 
 ### 3D Robots Simulators
 
