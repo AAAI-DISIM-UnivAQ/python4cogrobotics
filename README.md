@@ -16,9 +16,9 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Computer Vision
 
-* OpenCV
-* scikit-image
-* Inception image classifier
+* [opencv-python](http://github.com/skvark/opencv-python) with [OpenCV](http://opencv.org)
+* [scikit-image](http://scikit-image.org)
+* [Inception image classifier](http://www.tensorflow.org/tutorials/images/image_recognition)
 
 ### Logic Programming
 
