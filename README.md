@@ -10,9 +10,9 @@ This is my idea about how to use Python to design and build cognitive robots tha
 
 ### Natural Language Processing
 
-* spaCy
-* NLTK
-* PyAIML
+* [spaCy](http://spacy.io)
+* [NLTK](http://www.nltk.org)
+* [PyAIML](http://github.com/cdwfs/pyaiml)
 
 ### Computer Vision
 
