@@ -56,6 +56,7 @@ This is my idea about how to use Python to design and build cognitive robots tha
 * [rospy](http://wiki.ros.org/rospy) with [ROS](http://www.ros.org)
 * [RaspberryPI](http://www.raspberrypi.org) based robots [1](http://github.com/nasa-jpl/open-source-rover) [2](http://www.researchgate.net/publication/289108931_Open_Source_Mobile_Robot_with_Raspberry_Pi)
 
+![Mobile robots](mobile_robots_sim.gif) ![NAO robot](NAOrobot.gif)
 
 
 [![DOI](https://zenodo.org/badge/146905074.svg)](https://zenodo.org/badge/latestdoi/146905074)
